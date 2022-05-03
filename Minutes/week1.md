@@ -6,7 +6,7 @@ Joe Ovelgonene
 Jadon Routley  
 Lachlan Mizon  
 Oscar Mower  
-Shivam x(get last name)  
+Shivam Varyani  
 
 ## Apologies
 none
