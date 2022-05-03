@@ -21,6 +21,9 @@ refine ideas for group project
 ## Regular items
 - Idea presented, begin work
 - begin assigning tasks
+- Idea development
+	- Advised to start with single lane sensing, using the magnetometer for detecting different milk bottles. Will work on this independently as it is not necessary for the core functionality of the design
+	- Motor still needed for the tilt of the LiDAR, can expand to a second channel if single lane detection works well enough
 
 ## New items
  - Delegate tasks
